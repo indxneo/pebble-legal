@@ -31,3 +31,4 @@ hr { border: 0; border-top: 2px dashed var(--line); margin: 40px 0; }
 .links a { display: block; background: var(--card); border: 2px solid var(--line); border-radius: 18px; padding: 14px 18px; text-decoration: none; color: var(--ink); font-weight: 700; }
 .links a span { display: block; font-weight: 400; color: var(--soft); }
 footer { color: var(--soft); font-size: 15px; margin-top: 40px; }
+.app-icon { display: block; border-radius: 27px; margin: 8px 0 14px; box-shadow: 0 6px 18px rgba(74, 59, 52, 0.22); }
