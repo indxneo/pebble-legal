@@ -6,4 +6,4 @@ The public pages for the iPhone game Dear Pebble, served with GitHub Pages:
 - `support.html`: the support page (the Support URL in App Store Connect)
 - `index.html`: a landing page that links to both
 
-Each page is in English first and Russian below. Player questions arrive as issues in this repository.
+Each page is in English first and Russian below. Player questions arrive by email, at the address on the support page.
